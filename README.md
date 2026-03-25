@@ -25,22 +25,20 @@
 2. 直接點 **Create fork**（不需要改設定）
 3. 等幾秒，你會進入自己的副本
 
-### 第 2 步：複製模板
+### 第 2 步：建立你的場景檔案
 
 1. 進入你 Fork 後的專案
 2. 點進 `contributors/` 資料夾
 3. 點開 **`_template.md`** 這個檔案
-4. 點右上角的 **Raw** 按鈕，全選複製（Ctrl+A / Cmd+A → Ctrl+C / Cmd+C）
+4. 點右上角的 **Raw** 按鈕，全選複製（Ctrl+A / Cmd+A 然後 Ctrl+C / Cmd+C）
+5. 回到 `contributors/` 資料夾
+6. 點右上方 **Add file** > **Create new file**
+7. 檔案名稱用英文或拼音，例如 `tea-room.md`、`rooftop.md`（不要有空格）
+8. 在編輯區貼上剛剛複製的模板內容，然後改成你的創作
 
-### 第 3 步：建立你的場景檔案
+> **快速通道**：不想手動 Fork？[點這裡一鍵建立場景](https://github.com/junyiacademy/office-adventure/new/main/contributors?value=%23%20%E4%BD%A0%E7%9A%84%E5%A0%B4%E6%99%AF%E5%90%8D%E7%A8%B1%0A%0A%E6%8F%8F%E8%BF%B0%E8%B5%B0%E9%80%B2%E9%80%99%E5%80%8B%E5%A0%B4%E6%99%AF%E6%99%82%E7%9C%8B%E5%88%B0%E7%9A%84%E6%A8%A3%E5%AD%90%E3%80%82%0A%0A%23%23%20%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84%E4%BA%8B%0A%0A%E5%81%9A%E6%9F%90%E4%BB%B6%E4%BA%8B%EF%BC%9A%E6%8F%8F%E8%BF%B0%E5%81%9A%E4%BA%86%E4%B9%8B%E5%BE%8C%E7%9A%84%E7%B5%90%E6%9E%9C%E3%80%82%2A%E7%8D%B2%E5%BE%97%E6%94%B6%E8%97%8F%E5%93%81%E5%90%8D%E7%A8%B1%2A%0A%E5%81%9A%E6%9F%90%E4%BB%B6%E4%BA%8B%EF%BC%9A%E6%8F%8F%E8%BF%B0%E5%81%9A%E4%BA%86%E4%B9%8B%E5%BE%8C%E7%9A%84%E7%B5%90%E6%9E%9C%E3%80%82%2A%E7%8D%B2%E5%BE%97%E6%94%B6%E8%97%8F%E5%93%81%E5%90%8D%E7%A8%B1%2A%0A%E5%81%9A%E6%9F%90%E4%BB%B6%E4%BA%8B%EF%BC%9A%E6%8F%8F%E8%BF%B0%E5%81%9A%E4%BA%86%E4%B9%8B%E5%BE%8C%E7%9A%84%E7%B5%90%E6%9E%9C%E3%80%82%2A%E7%8D%B2%E5%BE%97%E6%94%B6%E8%97%8F%E5%93%81%E5%90%8D%E7%A8%B1%2A%0A%E5%81%9A%E6%9F%90%E4%BB%B6%E4%BA%8B%EF%BC%9A%E6%8F%8F%E8%BF%B0%E5%81%9A%E4%BA%86%E4%B9%8B%E5%BE%8C%E7%9A%84%E7%B5%90%E6%9E%9C%E3%80%82%2A%E7%8D%B2%E5%BE%97%E6%94%B6%E8%97%8F%E5%93%81%E5%90%8D%E7%A8%B1%2A%0A)（GitHub 會自動幫你 Fork 並帶入模板）
 
-1. 回到 `contributors/` 資料夾
-2. 點右上方 **Add file** > **Create new file**
-3. 檔案名稱用英文或拼音，例如 `tea-room.md`、`rooftop.md`（不要有空格）
-4. 在編輯區貼上剛剛複製的模板內容
-5. 把模板裡的文字改成你的創作
-
-### 第 4 步：寫你的場景
+### 第 3 步：寫你的場景
 
 模板長這樣，改成你自己的內容：
 
@@ -64,14 +62,14 @@
 4. 每個選項格式：`動作：結果`
 5. 想加收藏品就在結尾加 `*名稱*`（選加，不是必要的）
 
-### 第 5 步：提交
+### 第 4 步：提交
 
 1. 頁面下方 **Commit changes** 區塊
 2. commit message 填：`add 場景名稱`
 3. 選 **Commit directly to the main branch**
 4. 點 **Commit changes**
 
-### 第 6 步：發起 Pull Request
+### 第 5 步：發起 Pull Request
 
 1. 回到你 Fork 的專案首頁
 2. 看到 **This branch is 1 commit ahead** 的提示
